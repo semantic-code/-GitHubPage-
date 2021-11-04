@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://semantic-code.github.io/tag/mysql/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://semantic-code.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-11-04T16:36:16+09:00</updated>
+  <id>https://semantic-code.github.io/tag/mysql/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">semantic-code blog | </title>
+  
+
+  
+    <subtitle>javaf's web-recipe public blog</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">mysql - 날짜 계산</title>
+      <link href="https://semantic-code.github.io/php-basic" rel="alternate" type="text/html" title="mysql - 날짜 계산" />
+      <published>2017-07-27T19:00:00+09:00</published>
+      <updated>2017-07-27T19:00:00+09:00</updated>
+      <id>https://semantic-code.github.io/php-basic</id>
+      <content type="html" xml:base="https://semantic-code.github.io/php-basic">&lt;p&gt;mysql 1개만 출력하기
+맨 뒤에 lmit 1&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>javaf</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="mysql" />
+      
+
+      
+        <summary type="html">mysql 1개만 출력하기 맨 뒤에 lmit 1</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

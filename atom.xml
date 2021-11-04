@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>javaf's web-recipe public blog</description>
+    <link>
+    https://semantic-code.github.io</link>
+    
+      
+      <item>
+        <title>php - mysql 연결 2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;php 포스트는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./php-basic&quot;&gt;php - mysql 연결 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./php-contents&quot;&gt;php - mysql 연결 2&lt;/a&gt;&lt;/li&gt;    
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 19:00:00 +0900</pubDate>
+        <link>
+        https://semantic-code.github.io/php-contents</link>
+        <guid isPermaLink="true">https://semantic-code.github.io/php-contents</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>php - mysql 연결 1</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;php 포스트는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./php-basic&quot;&gt;php - mysql 연결 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./php-contents&quot;&gt;php - mysql 연결 2&lt;/a&gt;&lt;/li&gt;    
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 19:00:00 +0900</pubDate>
+        <link>
+        https://semantic-code.github.io/php-basic</link>
+        <guid isPermaLink="true">https://semantic-code.github.io/php-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>mysql - 날짜 계산</title>
+        
+          <description>&lt;p&gt;mysql 1개만 출력하기
+맨 뒤에 lmit 1&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 19:00:00 +0900</pubDate>
+        <link>
+        https://semantic-code.github.io/php-basic</link>
+        <guid isPermaLink="true">https://semantic-code.github.io/php-basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
